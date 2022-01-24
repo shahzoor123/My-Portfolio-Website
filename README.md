@@ -1,30 +1,10 @@
-[![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)](https://dwe.st/rr)
+### Hi there 👋, my name is shahzoor khan
+#### I am a Python & Web developer
+![My Portfolio site all of my work](https://github.com/shahzoor123/website-porfolio/blob/master/323434.png "Header")
 
-- Seasoned Developer and Amateur Designer
-- Stickers anyone? 👉 https://jsmerch.dev 👈
-- Staunch advocate for #CleanCode
-- #JavaScript and #ReactJS conference speaker
-- Organizer for the [@useReactNYC](https://usereact.nyc/) Meetup group
-- <img src="https://raw.githubusercontent.com/donavon/donavon/master/img/twitter.svg" /> Follow me on [Twitter](https://dwe.st/t)
-- On [LinkedIn](https://dwe.st/li)
-- View my [resume](https://dwe.st/resume)
-- {...♥️} #SpreadLove
+I made this website to showcase my protfolio so that you can see the work that i have done
 
-<!--
-**donavon/donavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML/CSS/BOOTSTARP/WORDPRESS/PYTHON
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+- 🔭 I’m currently working on this page. 
 
